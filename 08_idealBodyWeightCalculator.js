@@ -8,3 +8,10 @@
  *      - If it is, output "Healthy weight range".
  *      - Otherwise, output whether they are "Under ideal weight" or "Over ideal weight".
  */
+
+function getIdealBodyWeight(height, gender) {
+ if (gender == male) {
+
+ }
+
+}
